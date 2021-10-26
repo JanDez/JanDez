@@ -64,9 +64,9 @@
 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" height="50" width="50">
 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nestjs" height="50" width="50">
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nestjs" height="50" width="50">
 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nestjs" height="50" width="50">
+  <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg" alt="Adonis" height="50" width="50">
 
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" height="50" width="50">
 
