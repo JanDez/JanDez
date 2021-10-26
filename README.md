@@ -60,15 +60,76 @@
   
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" height="50" width="50">
 
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphQL" height="50" width="50">
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="50" width="50">
 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="50" width="50">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" height="50" width="50">
 
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" height="50" width="50">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nestjs" height="50" width="50">
 
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mySql" height="50" width="50">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nestjs" height="50" width="50">
+
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" height="50" width="50">
+
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="50" width="50">
+
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSql" height="50" width="50">
   
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" width="50">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySql" height="50" width="50">
+  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" width="50">
+</p>
+
+
+<h2 align="center">Tools for DevOps 🧰</h2>
+
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="50" width="50">
+  
+  <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="Digital Ocean" height="50" width="50">
+  
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" width="50">
+  
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/00b6fe7eca52b9df8a38b5e5b64fe9abe8580add/icons/railway.svg" alt="Railway" height="50" width="50">
+
+  <img src="https://raw.githubusercontent.com/cncf/landscape/d5b8ce23193f16a0692ce611fe69abc26bbb2c71/hosted_logos/planetscale.svg" alt="Railway" height="50" width="50">
+
+  <img src="https://getlogo.net/wp-content/uploads/2020/11/supabase-logo-vector.png" alt="Railway" height="50" width="50">
+
+</p>
+
+
+<h2 align="center">Tools to Ensure Productivity and Quality 🚤</h2>
+
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" height="50" width="50">
+  
+  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="ESLint" height="50" width="50">
+  
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/prettier-1.svg" alt="Prettier" height="50" width="50">
+  
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" height="50" width="50">
+
+  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" height="50" width="50">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/storybook/storybook-original.svg" alt="Storybook" height="50" width="50">
+
+   <img src="https://www.vectorlogo.zone/logos/yeoman/yeoman-icon.svg" alt="Yeoman" height="50" width="50">
+
+   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="Webpack" height="50" width="50">
+
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" width="50">
+
+  <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/bfc9278b5cb95b1700040ddc5a6ef260c94b4211/src/drivers/webextension/images/icons/Swagger%20UI.svg" alt="Swagger" height="50" width="50">
+
+  <img src="https://d33wubrfki0l68.cloudfront.net/ea8e37a6a30e9c260a8936d95c579af4a2dd3df7/6ee7e/img/docusaurus_keytar.svg" alt="Docusaurus" height="50" width="50">
+
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="NPM" height="50" width="50">
+
+  <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="Yarn" height="50" width="50">
+
+
 </p>
 
 <h2 align="center">Github Stats :bar_chart:</h2>
